@@ -1,4 +1,4 @@
-## Messages schema
+## Messages schema tests
 
 ```
 mutation {
@@ -36,7 +36,7 @@ mutation{
 }
 ```
 
-## Users schema
+## Users schema tests
 
 ```
 mutation {
